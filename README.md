@@ -42,7 +42,7 @@ cd public-apis-lookup
 
 ## ✨ Key Features
 
-- **⚡ Zero Latency / Offline**: Built-in, structured JSON database with 1,579 verified APIs. No web scraping or slow search latency.
+- **⚡ Zero Latency / Offline**: Built-in, structured JSON database with 1,580 verified APIs. No web scraping or slow search latency.
 - **🛡️ Frontend & CORS Filtering**: Immediately isolate browser-ready (`CORS: Yes`) and keyless (`Auth: No`) endpoints for client-side single-page applications.
 - **📦 Zero Dependencies**: Pure Python standard library (`json`, `re`, `argparse`, `sys`). No `pip install` or virtual environments required.
 - **🤖 Universal Agent Skill**: Pre-configured `SKILL.md` compliant with modern agent architectures (Antigravity, Claude Code, Cursor, Windsurf).
@@ -113,7 +113,7 @@ public-apis-lookup/
 ├── scripts/
 │   └── query_apis.py         # Standard library CLI query tool
 └── resources/
-    └── public_apis.json      # Structured database of 1,579 public APIs
+    └── public_apis.json      # Structured database of 1,580 public APIs
 ```
 
 ---

@@ -9963,6 +9963,15 @@
     "category": "Personality"
   },
   {
+    "api": "Bucketlist.nl Dream of the Day",
+    "url": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json",
+    "description": "Daily travel or life-experience idea with canonical URL and image; Dutch by default",
+    "auth": "No",
+    "https": true,
+    "cors": "yes",
+    "category": "Personality"
+  },
+  {
     "api": "Dev.to",
     "url": "https://developers.forem.com/api",
     "description": "Access Forem articles, users and other resources via API",
